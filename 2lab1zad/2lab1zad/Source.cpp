@@ -22,10 +22,10 @@ int main()
 	cout << endl;
 	
 	cout << "Setting value:\n";
-	m.setAt(2, 2, 14.78);
+	m.setAt(4, 4, 14.78);
 	m.print();
 	cout << endl;
-	cout << "Value: " << m.at(2, 2) << endl;
+	cout << "Value: " << m.at(4, 4) << endl;
 	cout << endl;
 
 	cout << "Prefikc inkrement:\n";
